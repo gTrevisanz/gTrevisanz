@@ -16,5 +16,11 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>👀</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gTrevisanz}/count.svg" /></p> 
+<br></div>
+
+
 
 
