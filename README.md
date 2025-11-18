@@ -8,6 +8,10 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gTrevisanz&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
+## Sobre mim
+
+<p>Meu nome é Gabriel Trevisan Ribeiro, tenho 17 anos, nasci em Florianópolis e estou no terceiro ano do ensino médio. Quando terminar a escola quero cursar Engenharia de Software, Atualmente, <strong>trabalho na área de TI como Jovem Aprendiz</strong>. Também sonho no futuro em morar fora do país.</p>
+
 ### Linguagens
 
   <div display="flex">
