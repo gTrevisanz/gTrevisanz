@@ -13,6 +13,7 @@
 <p>Meu nome é Gabriel Trevisan Ribeiro, tenho 17 anos, nasci em Florianópolis e estou no terceiro ano do ensino médio. Quando terminar a escola quero cursar Engenharia de Software, Atualmente, <strong>trabalho na área de TI como Jovem Aprendiz</strong>. Também sonho no futuro em morar fora do país.</p>
 
 <h1><a href="https://gabrieltrevisanport2k25.netlify.app/" target="_blank">Portfólio</a></h1>
+
 ### Linguagens
 
   <div display="flex">
